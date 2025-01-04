@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Admin-Dashboard/static/css/main.c08ad8b6.css",
-    "main.js": "/React-Admin-Dashboard/static/js/main.61304ff5.js",
+    "main.js": "/React-Admin-Dashboard/static/js/main.f3782687.js",
     "static/media/boxicons.svg": "/React-Admin-Dashboard/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
     "static/media/boxicons.eot": "/React-Admin-Dashboard/static/media/boxicons.092b78589f3f53e60030.eot",
     "static/media/boxicons.woff": "/React-Admin-Dashboard/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
@@ -11,10 +11,10 @@
     "static/media/boxicons.woff2": "/React-Admin-Dashboard/static/media/boxicons.8d765747a5588f36ff61.woff2",
     "index.html": "/React-Admin-Dashboard/index.html",
     "main.c08ad8b6.css.map": "/React-Admin-Dashboard/static/css/main.c08ad8b6.css.map",
-    "main.61304ff5.js.map": "/React-Admin-Dashboard/static/js/main.61304ff5.js.map"
+    "main.f3782687.js.map": "/React-Admin-Dashboard/static/js/main.f3782687.js.map"
   },
   "entrypoints": [
     "static/css/main.c08ad8b6.css",
-    "static/js/main.61304ff5.js"
+    "static/js/main.f3782687.js"
   ]
 }
