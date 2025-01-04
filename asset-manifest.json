@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-admin-dashboard/static/css/main.fcd181a4.css",
-    "main.js": "/react-admin-dashboard/static/js/main.200349c3.js",
-    "static/media/boxicons.svg": "/react-admin-dashboard/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
-    "static/media/boxicons.eot": "/react-admin-dashboard/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/react-admin-dashboard/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/react-admin-dashboard/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/bank.jpg": "/react-admin-dashboard/static/media/bank.b2980198b7c60e74148f.jpg",
-    "static/media/logo.png": "/react-admin-dashboard/static/media/logo.f153eb9f28437192c6a0.png",
-    "static/media/boxicons.woff2": "/react-admin-dashboard/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "index.html": "/react-admin-dashboard/index.html",
-    "main.fcd181a4.css.map": "/react-admin-dashboard/static/css/main.fcd181a4.css.map",
-    "main.200349c3.js.map": "/react-admin-dashboard/static/js/main.200349c3.js.map"
+    "main.css": "/React-Admin-Dashboard/static/css/main.c08ad8b6.css",
+    "main.js": "/React-Admin-Dashboard/static/js/main.74072790.js",
+    "static/media/boxicons.svg": "/React-Admin-Dashboard/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/boxicons.eot": "/React-Admin-Dashboard/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/React-Admin-Dashboard/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/React-Admin-Dashboard/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/bank.jpg": "/React-Admin-Dashboard/static/media/bank.b2980198b7c60e74148f.jpg",
+    "static/media/logo.png": "/React-Admin-Dashboard/static/media/logo.f153eb9f28437192c6a0.png",
+    "static/media/boxicons.woff2": "/React-Admin-Dashboard/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/React-Admin-Dashboard/index.html",
+    "main.c08ad8b6.css.map": "/React-Admin-Dashboard/static/css/main.c08ad8b6.css.map",
+    "main.74072790.js.map": "/React-Admin-Dashboard/static/js/main.74072790.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd181a4.css",
-    "static/js/main.200349c3.js"
+    "static/css/main.c08ad8b6.css",
+    "static/js/main.74072790.js"
   ]
 }
